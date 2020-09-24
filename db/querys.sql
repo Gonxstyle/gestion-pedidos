@@ -6,6 +6,7 @@ VALUES
 (4,'Puttanesca',21.50),
 (5,'Barbacoa',5.20);
 
+
 INSERT INTO usuarios
 VALUES
 (NULL,'Pepe','pepelotas69@gmail.com');
@@ -21,6 +22,8 @@ VALUES
 INSERT INTO usuarios
 VALUES
 (NULL,'Perico','periquito69@gmail.com');
+
+
 
 INSERT INTO pedidos
 VALUES
